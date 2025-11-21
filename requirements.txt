@@ -1,3 +1,5 @@
 fyers-apiv2
 streamlit
 pandas
+numpy
+plotly
